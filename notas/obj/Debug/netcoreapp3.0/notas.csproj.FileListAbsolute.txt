@@ -1,0 +1,11 @@
+C:\Users\marin\source\repos\notas\obj\Debug\netcoreapp3.0\notas.csprojAssemblyReference.cache
+C:\Users\marin\source\repos\notas\obj\Debug\netcoreapp3.0\notas.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\notas\obj\Debug\netcoreapp3.0\notas.AssemblyInfo.cs
+C:\Users\marin\source\repos\notas\bin\Debug\netcoreapp3.0\notas.exe
+C:\Users\marin\source\repos\notas\bin\Debug\netcoreapp3.0\notas.deps.json
+C:\Users\marin\source\repos\notas\bin\Debug\netcoreapp3.0\notas.runtimeconfig.json
+C:\Users\marin\source\repos\notas\bin\Debug\netcoreapp3.0\notas.runtimeconfig.dev.json
+C:\Users\marin\source\repos\notas\bin\Debug\netcoreapp3.0\notas.dll
+C:\Users\marin\source\repos\notas\bin\Debug\netcoreapp3.0\notas.pdb
+C:\Users\marin\source\repos\notas\obj\Debug\netcoreapp3.0\notas.dll
+C:\Users\marin\source\repos\notas\obj\Debug\netcoreapp3.0\notas.pdb
